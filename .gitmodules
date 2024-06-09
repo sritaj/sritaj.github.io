@@ -1,0 +1,6 @@
+[submodule "src/projects/react_passwordGenerator"]
+	path = src/projects/react_passwordGenerator
+	url = https://github.com/sritaj/react_passwordGenerator
+[submodule "src/projects/react_currencyConvertor"]
+	path = src/projects/react_currencyConvertor
+	url = https://github.com/sritaj/react_currencyConvertor
